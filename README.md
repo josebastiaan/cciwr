@@ -28,7 +28,9 @@ git push origin master # push current HEAD to YOUR remote master branch (push to
 git push felix master # push current HEAD to MY remote master branch (only if administrator, then push directly into master)
 ```
 
-## Additional steps to check if everything now works
-### I've now turned off network iv6 by "networksetup -setv6off Wi-Fi", can be turned back on by "networksetup -setv6automatic Wi-Fi"
+### Additional steps to check if everything now works
 ```
+ I've now turned off network iv6 by "networksetup -setv6off Wi-Fi", can be turned back on by "networksetup -setv6automatic Wi-Fi"
+ 
+ Check, check, alpha, bravo, charlie
 ```
