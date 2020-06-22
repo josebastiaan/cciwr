@@ -33,4 +33,6 @@ git push felix master # push current HEAD to MY remote master branch (only if ad
  I've now turned off network iv6 by "networksetup -setv6off Wi-Fi", can be turned back on by "networksetup -setv6automatic Wi-Fi"
  
  Check, check, alpha, bravo, charlie
+ 
+ Check two
 ```
